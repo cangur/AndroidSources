@@ -110,7 +110,7 @@ Bu dokümanı hazırlamaktaki temel amacımız, Android Uygulama Geliştirme ala
     * [Güncellenecek](http://googlecom)
     
 * **Bloglar**
-    * [Güncellenecek](http://googlecom)
+    * [Retrofit, Glide, Picasso, Gson (Network işlemleri)](https://futurestud.io/tutorials)
     
 * **Kişiler**
     * [Güncellenecek](http://googlecom)
